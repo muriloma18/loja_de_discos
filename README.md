@@ -1,4 +1,3 @@
-# Loja de Discos
 # 🎵 Loja de Discos
 
 Site de uma loja fictícia de discos de vinil, com foco em **Música Popular Brasileira (MPB)**. Projeto feito para praticar HTML e CSS.
